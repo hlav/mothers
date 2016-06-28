@@ -1,7 +1,11 @@
-body {
+head {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 'Dancing Script', cursive;
+
 }
+p{font-size: 56px;
+font-family: 'Dancing Script', Arial, serif; font-weight: 700; }
+
 
 a {
   color: #00B7FF;
